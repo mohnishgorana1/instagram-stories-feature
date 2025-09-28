@@ -28,7 +28,7 @@ export default function StoryViewer({ stories, startIndex, onClose }: Props) {
       requestAnimationFrame(() =>
         requestAnimationFrame(() => {
           if (progressRef.current) {
-            progressRef.current.style.transition = "width 8s linear";
+            progressRef.current.style.transition = "width 5s linear";
             progressRef.current.style.width = "100%";
           }
         })
