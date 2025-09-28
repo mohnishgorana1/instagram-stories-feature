@@ -103,9 +103,10 @@ export default function StoryViewer({ stories, startIndex, onClose }: Props) {
             src={item.image}
             alt={`story-${item.id}`}
             fill
-            priority
+            priority={index<6}
             className="object-contain"
             sizes="100vw"
+            
           />
         </div>
 
