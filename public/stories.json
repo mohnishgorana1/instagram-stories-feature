@@ -1,0 +1,17 @@
+[
+  { "id": 1, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story1.jpeg" },
+  { "id": 2, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story2.jpeg" },
+  { "id": 3, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story3.jpeg" },
+  { "id": 4, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story4.jpeg" },
+  { "id": 5, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story5.jpeg" },
+  { "id": 6, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story6.jpeg" },
+  { "id": 7, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story7.jpeg" },
+  { "id": 8, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story8.jpeg" },
+  { "id": 9, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story9.jpeg" },
+  { "id": 10, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story10.jpeg" },
+  { "id": 11, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story11.jpeg" },
+  { "id": 12, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story12.jpeg" },
+  { "id": 13, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story13.jpeg" },
+  { "id": 14, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story14.jpeg" },
+  { "id": 15, "profile": "/assets/profiles/p1.jpeg", "image": "/assets/stories/story15.jpeg" }
+]
